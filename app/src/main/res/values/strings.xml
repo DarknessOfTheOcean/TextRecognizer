@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="no_text">oops! something went wrong</string>
+</resources>
